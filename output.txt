@@ -1,0 +1,49 @@
+Inserted (j, 27)
+Inserted (m, 35)
+r not found
+Most recent key is m
+Inserted (c, 17)
+l not found
+Most recent key is c
+Inserted (z, 23)
+Most recent key is z
+Value for j is 27
+Most recent key is j
+Inserted (e, 40)
+Inserted (q, 74)
+Inserted (s, 32)
+l not found
+Most recent key is s
+k not found
+Most recent key is s
+Inserted (a, 65)
+Inserted (p, 22)
+w not found
+Most recent key is p
+Inserted (h, 81)
+b not found
+Most recent key is h
+Inserted (y, 16)
+Most recent key is y
+n not found
+Most recent key is y
+Inserted (i, 88)
+Inserted (d, 10)
+f not found
+Most recent key is d
+Inserted (u, 30)
+g not found
+Most recent key is u
+Inserted (t, 93)
+Inserted (v, 57)
+o not found
+Most recent key is v
+c not found
+Most recent key is v
+Inserted (x, 12)
+Inserted (l, 45)
+j not found
+Most recent key is l
+Inserted (k, 28)
+m not found
+Most recent key is k
